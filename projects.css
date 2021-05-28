@@ -1,0 +1,1656 @@
+:root {
+	--web-view-ids: Desktop_Projects,Tablet_Projects,Mobile_Projects;
+	--web-view-name: Desktop Projects;
+	--web-view-id: Desktop_Projects;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-show-scale-controls: false;
+	--web-scale-on-double-click: false;
+	--web-center-horizontally: true;
+	--web-center-vertically: false;
+	--web-actual-size-on-double-click: false;
+	--web-navigate-on-keypress: false;
+	--web-refresh-for-changes: false;
+	--web-add-image-compare: false;
+	--web-show-by-media-query: true;
+	--web-application: false;
+	--web-show-navigation-controls: false;
+	--web-enable-deep-linking: true;
+	--web-is-overlay: false;
+}
+#Desktop_Projects,
+#Tablet_Projects,
+#Mobile_Projects {
+	display: none;
+}
+@media (min-width: 1920px) {
+	.mediaViewInfo {
+		--web-view-name: Desktop Projects;
+		--web-view-id: Desktop_Projects;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-enable-scale-up: true;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-show-by-media-query: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Desktop_Projects {
+		position: absolute;
+		display: block;
+		width: 1920px;
+		height: 2712px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: Desktop Projects;
+		--web-view-id: Desktop_Projects;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-enable-scale-up: true;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-show-by-media-query: true;
+		--web-enable-deep-linking: true;
+	}
+	#Contact {
+		position: absolute;
+		width: 262px;
+		height: 121px;
+		left: 829px;
+		top: 2530px;
+		overflow: visible;
+	}
+	#elliott2000hotmailcom {
+		left: 35px;
+		top: 53px;
+		position: absolute;
+		overflow: visible;
+		width: 228px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft New Tai Lue;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(36,36,36,1);
+	}
+	#ZappyMan6311 {
+		left: 70px;
+		top: 94px;
+		position: absolute;
+		overflow: visible;
+		width: 159px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft New Tai Lue;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(36,36,36,1);
+	}
+	#Mask_Group_2 {
+		position: absolute;
+		width: 27px;
+		height: 27px;
+		left: 0px;
+		top: 53px;
+		overflow: visible;
+	}
+	#Mask_Group_3 {
+		position: absolute;
+		width: 27px;
+		height: 27px;
+		left: 35px;
+		top: 94px;
+		overflow: visible;
+	}
+	#Line_4 {
+		fill: transparent;
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_4 {
+		overflow: visible;
+		position: absolute;
+		width: 176.5px;
+		height: 1px;
+		left: 40px;
+		top: 34.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Contact_Info {
+		left: 40px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 184px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft New Tai Lue;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(36,36,36,1);
+	}
+	#Title {
+		position: absolute;
+		width: 2080px;
+		height: 834px;
+		left: 132px;
+		top: -50px;
+		overflow: visible;
+	}
+	#Screenshot_20171109-213919 {
+		position: absolute;
+		width: 1690px;
+		height: 822px;
+		left: 390px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_15_v {
+		fill: url(#Rectangle_15_v);
+	}
+	.Rectangle_15_v {
+		position: absolute;
+		overflow: visible;
+		width: 1373px;
+		height: 814px;
+		left: 379px;
+		top: 8px;
+	}
+	#Rectangle_17_x {
+		fill: url(#Rectangle_17_x);
+	}
+	.Rectangle_17_x {
+		position: absolute;
+		overflow: visible;
+		width: 181px;
+		height: 684px;
+		left: 1607px;
+		top: 150px;
+	}
+	#Projects {
+		left: 0px;
+		top: 339px;
+		position: absolute;
+		overflow: visible;
+		width: 849px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft Tai Le;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 175px;
+		color: rgba(51,48,48,1);
+		letter-spacing: 0.1px;
+		text-transform: uppercase;
+	}
+	#Navigation {
+		position: absolute;
+		width: 1920px;
+		height: 150px;
+		left: 0px;
+		top: -50px;
+		overflow: visible;
+	}
+	#Rectangle_2 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_2 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 100px;
+		left: 0px;
+		top: 50px;
+	}
+	#Component_3__4 {
+		position: absolute;
+		width: 76px;
+		height: 114px;
+		left: 132px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Home:hover {
+		padding-left: 0px;
+		padding-top: 0px;
+		width: 77px;
+		font-size: 25px;
+		color: rgba(0,0,0,1);
+	}
+	#Home {
+		left: 8px;
+		top: 88px;
+		position: absolute;
+		overflow: visible;
+		width: 61px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(112,112,112,1);
+		text-transform: uppercase;
+		transition: all .3s ease-out;
+	}
+	#Home_ba {
+		padding-left: 0px;
+		padding-top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 77px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(0,0,0,1);
+		text-transform: uppercase;
+	}
+	#Component_2__4 {
+		position: absolute;
+		width: 120px;
+		height: 112px;
+		left: 266px;
+		top: 3px;
+		overflow: visible;
+	}
+	#Projects_ {
+		left: 12px;
+		top: 86px;
+		position: absolute;
+		overflow: visible;
+		width: 97px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(112,112,112,1);
+		text-transform: uppercase;
+	}
+	#Projects_ba {
+		margin-left: 0px;
+		margin-top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 121px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(3,3,3,1);
+		text-transform: uppercase;
+	}
+	#Component_1__4 {
+		position: absolute;
+		width: 188px;
+		height: 109px;
+		left: 432px;
+		top: 6px;
+		overflow: visible;
+	}
+	#Photography:hover {
+		margin-left: 0px;
+		margin-top: 0px;
+		width: 189px;
+		font-size: 25px;
+		color: rgba(0,0,0,1);
+	}
+	#Photography {
+		left: 19px;
+		top: 83px;
+		position: absolute;
+		overflow: visible;
+		width: 151px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(112,112,112,1);
+		text-transform: uppercase;
+		transition: all .3s ease-out;
+	}
+	#Photography_bb {
+		margin-left: 0px;
+		margin-top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 189px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(0,0,0,1);
+		text-transform: uppercase;
+	}
+	#GitHub-Mark-120px-plus {
+		position: absolute;
+		width: 27px;
+		height: 27px;
+		left: 1690px;
+		top: 88px;
+		overflow: visible;
+	}
+	#Mask_Group_1 {
+		position: absolute;
+		width: 27px;
+		height: 27px;
+		left: 1753px;
+		top: 88px;
+		overflow: visible;
+	}
+	#flickr-logo-svgrepo-com {
+		position: absolute;
+		width: 27px;
+		height: 12.865px;
+		left: 1627px;
+		top: 95.068px;
+		overflow: visible;
+	}
+	#Group_1 {
+		position: absolute;
+		width: 27px;
+		height: 12.865px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Ellipse_1 {
+		fill: rgba(0,0,0,1);
+	}
+	.Ellipse_1 {
+		position: absolute;
+		overflow: visible;
+		width: 12.19px;
+		height: 12.711px;
+		left: 14.81px;
+		top: 0px;
+	}
+	#Ellipse_2 {
+		fill: rgba(0,0,0,1);
+	}
+	.Ellipse_2 {
+		position: absolute;
+		overflow: visible;
+		width: 11.848px;
+		height: 12.865px;
+		left: 0px;
+		top: 0px;
+	}
+	#CatSpot {
+		position: absolute;
+		width: 1548px;
+		height: 430px;
+		left: 186px;
+		top: 887px;
+		overflow: visible;
+	}
+	#CatSpot_bj {
+		left: 808px;
+		top: 35px;
+		position: absolute;
+		overflow: visible;
+		width: 138px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft Tai Le;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 36px;
+		color: rgba(51,48,48,1);
+		letter-spacing: 0.1px;
+	}
+	#catspot {
+		position: absolute;
+		width: 768px;
+		height: 430px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#School_Project_-_2019__CatSpot {
+		left: 808px;
+		top: 90px;
+		position: absolute;
+		overflow: visible;
+		width: 741px;
+		height: 263px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(36,36,36,1);
+	}
+	#Rectangle_19 {
+		fill: rgba(255,255,255,0);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: round;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_19 {
+		position: absolute;
+		overflow: visible;
+		width: 1548px;
+		height: 430px;
+		left: 0px;
+		top: 0px;
+	}
+	#Plant_Monitor {
+		position: absolute;
+		width: 1548px;
+		height: 430.5px;
+		left: 186px;
+		top: 1420px;
+		overflow: visible;
+	}
+	#Rectangle_19_bo {
+		fill: rgba(255,255,255,0);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: round;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_19_bo {
+		position: absolute;
+		overflow: visible;
+		width: 1548px;
+		height: 430px;
+		left: 0px;
+		top: 0px;
+	}
+	#Plant_Monitor_bp {
+		left: 808px;
+		top: 35px;
+		position: absolute;
+		overflow: visible;
+		width: 242px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft Tai Le;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 36px;
+		color: rgba(51,48,48,1);
+		letter-spacing: 0.1px;
+	}
+	#Personal_Project_-_2021__This_ {
+		left: 808px;
+		top: 90px;
+		position: absolute;
+		overflow: visible;
+		width: 741px;
+		height: 263px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(36,36,36,1);
+	}
+	#ID20210525_173411 {
+		position: absolute;
+		width: 764px;
+		height: 430.5px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#website {
+		position: absolute;
+		width: 1548px;
+		height: 430px;
+		left: 186px;
+		top: 1954px;
+		overflow: visible;
+	}
+	#Rectangle_19_bt {
+		fill: rgba(255,255,255,0);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: round;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_19_bt {
+		position: absolute;
+		overflow: visible;
+		width: 1548px;
+		height: 430px;
+		left: 0px;
+		top: 0px;
+	}
+	#This_Website {
+		left: 808px;
+		top: 35px;
+		position: absolute;
+		overflow: visible;
+		width: 233px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft Tai Le;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 36px;
+		color: rgba(51,48,48,1);
+		letter-spacing: 0.1px;
+	}
+	#Personal_Project_-_2020__I_des {
+		left: 808px;
+		top: 90px;
+		position: absolute;
+		overflow: visible;
+		width: 741px;
+		height: 263px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(36,36,36,1);
+	}
+	#web {
+		position: absolute;
+		width: 765px;
+		height: 430px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+}
+@media (min-width: 1347px) and (max-width: 1919px) {
+	.mediaViewInfo {
+		--web-view-name: Tablet Projects;
+		--web-view-id: Tablet_Projects;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-enable-scale-up: true;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-show-by-media-query: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Tablet_Projects {
+		position: absolute;
+		display: block;
+		width: 1347px;
+		height: 3704px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: Tablet Projects;
+		--web-view-id: Tablet_Projects;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-enable-scale-up: true;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-show-by-media-query: true;
+		--web-enable-deep-linking: true;
+	}
+	#Contact_bz {
+		position: absolute;
+		width: 262px;
+		height: 121px;
+		left: 543px;
+		top: 3525px;
+		overflow: visible;
+	}
+	#elliott2000hotmailcom_b {
+		left: 35px;
+		top: 53px;
+		position: absolute;
+		overflow: visible;
+		width: 228px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft New Tai Lue;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(36,36,36,1);
+	}
+	#ZappyMan6311_b {
+		left: 70px;
+		top: 94px;
+		position: absolute;
+		overflow: visible;
+		width: 159px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft New Tai Lue;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(36,36,36,1);
+	}
+	#Mask_Group_2_b {
+		position: absolute;
+		width: 27px;
+		height: 27px;
+		left: 0px;
+		top: 53px;
+		overflow: visible;
+	}
+	#Mask_Group_3_b {
+		position: absolute;
+		width: 27px;
+		height: 27px;
+		left: 35px;
+		top: 94px;
+		overflow: visible;
+	}
+	#Line_4_b {
+		fill: transparent;
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_4_b {
+		overflow: visible;
+		position: absolute;
+		width: 176.5px;
+		height: 1px;
+		left: 39px;
+		top: 34.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Contact_Info_b {
+		left: 39px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 184px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft New Tai Lue;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(36,36,36,1);
+	}
+	#Title_b {
+		position: absolute;
+		width: 1451px;
+		height: 582px;
+		left: 99px;
+		top: -12px;
+		overflow: visible;
+	}
+	#Screenshot_20171109-213919_b {
+		position: absolute;
+		width: 1179px;
+		height: 574px;
+		left: 272px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_15_ca {
+		fill: url(#Rectangle_15_ca);
+	}
+	.Rectangle_15_ca {
+		position: absolute;
+		overflow: visible;
+		width: 959px;
+		height: 569px;
+		left: 264px;
+		top: 5px;
+	}
+	#Rectangle_17_cb {
+		fill: url(#Rectangle_17_cb);
+	}
+	.Rectangle_17_cb {
+		position: absolute;
+		overflow: visible;
+		width: 126px;
+		height: 478px;
+		left: 1122px;
+		top: 104px;
+	}
+	#Projects_cc {
+		left: 0px;
+		top: 236px;
+		position: absolute;
+		overflow: visible;
+		width: 592px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft Tai Le;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 122px;
+		color: rgba(51,48,48,1);
+		letter-spacing: 0.1px;
+		text-transform: uppercase;
+	}
+	#Navigation_cd {
+		position: absolute;
+		width: 1347px;
+		height: 151px;
+		left: 0px;
+		top: -51px;
+		overflow: visible;
+	}
+	#Rectangle_2_ce {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_2_ce {
+		position: absolute;
+		overflow: visible;
+		width: 1347px;
+		height: 100px;
+		left: 0px;
+		top: 51px;
+	}
+	#Component_3__5 {
+		position: absolute;
+		width: 76px;
+		height: 113px;
+		left: 87px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Home_cg:hover {
+		padding-left: 0px;
+		padding-top: 0px;
+		width: 77px;
+		font-size: 25px;
+		color: rgba(0,0,0,1);
+	}
+	#Home_cg {
+		left: 12px;
+		top: 91px;
+		position: absolute;
+		overflow: visible;
+		width: 53px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 17px;
+		color: rgba(112,112,112,1);
+		text-transform: uppercase;
+		transition: all .3s ease-out;
+	}
+	#Home_ci {
+		padding-left: 0px;
+		padding-top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 77px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(0,0,0,1);
+		text-transform: uppercase;
+	}
+	#Component_2__5 {
+		position: absolute;
+		width: 82px;
+		height: 103px;
+		left: 203px;
+		top: 10px;
+		overflow: visible;
+	}
+	#Projects_ck {
+		left: 0px;
+		top: 81px;
+		position: absolute;
+		overflow: visible;
+		width: 83px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 17px;
+		color: rgba(112,112,112,1);
+		text-transform: uppercase;
+	}
+	#Projects_cl {
+		margin-left: 0px;
+		margin-top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 83px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 17px;
+		color: rgba(3,3,3,1);
+		text-transform: uppercase;
+	}
+	#Component_1__5 {
+		position: absolute;
+		width: 128px;
+		height: 100px;
+		left: 337px;
+		top: 13px;
+		overflow: visible;
+	}
+	#Photography_cn:hover {
+		margin-left: 0px;
+		margin-top: 0px;
+		width: 189px;
+		font-size: 25px;
+		color: rgba(0,0,0,1);
+	}
+	#Photography_cn {
+		left: 0px;
+		top: 78px;
+		position: absolute;
+		overflow: visible;
+		width: 129px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 17px;
+		color: rgba(112,112,112,1);
+		text-transform: uppercase;
+		transition: all .3s ease-out;
+	}
+	#Photography_cp {
+		margin-left: 0px;
+		margin-top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 129px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 17px;
+		color: rgba(0,0,0,1);
+		text-transform: uppercase;
+	}
+	#Mask_Group_5 {
+		position: absolute;
+		width: 27px;
+		height: 27px;
+		left: 1119px;
+		top: 88px;
+		overflow: visible;
+	}
+	#GitHub-Mark-120px-plus_cr {
+		position: absolute;
+		width: 27px;
+		height: 27px;
+		left: 1170px;
+		top: 88px;
+		overflow: visible;
+	}
+	#Mask_Group_4 {
+		position: absolute;
+		width: 27px;
+		height: 27px;
+		left: 1221px;
+		top: 88px;
+		overflow: visible;
+	}
+	#CatSpot_ct {
+		position: absolute;
+		width: 972px;
+		height: 848px;
+		left: 188px;
+		top: 661px;
+		overflow: visible;
+	}
+	#catspot_cu {
+		position: absolute;
+		width: 972px;
+		height: 544px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#CatSpot_cv {
+		left: 13px;
+		top: 556px;
+		position: absolute;
+		overflow: visible;
+		width: 156px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft Tai Le;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 41px;
+		color: rgba(51,48,48,1);
+		letter-spacing: 0.1px;
+	}
+	#School_Project_-_2019__CatSpot_cw {
+		left: 13px;
+		top: 620px;
+		position: absolute;
+		overflow: visible;
+		width: 960px;
+		height: 215px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(36,36,36,1);
+	}
+	#Rectangle_19_cx {
+		fill: rgba(255,255,255,0);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: round;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_19_cx {
+		position: absolute;
+		overflow: visible;
+		width: 972px;
+		height: 848px;
+		left: 0px;
+		top: 0px;
+	}
+	#Plant_Monitor_cy {
+		position: absolute;
+		width: 972px;
+		height: 895px;
+		left: 188px;
+		top: 1600px;
+		overflow: visible;
+	}
+	#ID20210525_173411_cz {
+		position: absolute;
+		width: 972px;
+		height: 546.5px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Plant_Monitor_c {
+		left: 13px;
+		top: 567px;
+		position: absolute;
+		overflow: visible;
+		width: 275px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft Tai Le;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 41px;
+		color: rgba(51,48,48,1);
+		letter-spacing: 0.1px;
+	}
+	#Personal_Project_-_2021__This__c {
+		left: 13px;
+		top: 640px;
+		position: absolute;
+		overflow: visible;
+		width: 960px;
+		height: 255px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(36,36,36,1);
+	}
+	#Rectangle_19_c {
+		fill: rgba(255,255,255,0);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: round;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_19_c {
+		position: absolute;
+		overflow: visible;
+		width: 972px;
+		height: 895px;
+		left: 0px;
+		top: 0px;
+	}
+	#website_c {
+		position: absolute;
+		width: 972px;
+		height: 848px;
+		left: 188px;
+		top: 2586px;
+		overflow: visible;
+	}
+	#Rectangle_19_da {
+		fill: rgba(255,255,255,0);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: round;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_19_da {
+		position: absolute;
+		overflow: visible;
+		width: 972px;
+		height: 848px;
+		left: 0px;
+		top: 0px;
+	}
+	#web_c {
+		position: absolute;
+		width: 972px;
+		height: 547px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#This_Website_c {
+		left: 16px;
+		top: 570px;
+		position: absolute;
+		overflow: visible;
+		width: 233px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft Tai Le;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 36px;
+		color: rgba(51,48,48,1);
+		letter-spacing: 0.1px;
+	}
+	#Personal_Project_-_2020__I_des_c {
+		left: 16px;
+		top: 625px;
+		position: absolute;
+		overflow: visible;
+		width: 945px;
+		height: 209px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(36,36,36,1);
+	}
+}
+@media (min-width: 0px) and (max-width: 1346px) {
+	.mediaViewInfo {
+		--web-view-name: Mobile Projects;
+		--web-view-id: Mobile_Projects;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-enable-scale-up: true;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-show-by-media-query: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Mobile_Projects {
+		position: absolute;
+		display: block;
+		width: 799px;
+		height: 2805px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: Mobile Projects;
+		--web-view-id: Mobile_Projects;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-enable-scale-up: true;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-show-by-media-query: true;
+		--web-enable-deep-linking: true;
+	}
+	#Contact_da {
+		position: absolute;
+		width: 262px;
+		height: 121px;
+		left: 269px;
+		top: 2628px;
+		overflow: visible;
+	}
+	#Line_4_db {
+		fill: transparent;
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_4_db {
+		overflow: visible;
+		position: absolute;
+		width: 176.5px;
+		height: 1px;
+		left: 42px;
+		top: 34.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Contact_Info_dc {
+		left: 42px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 184px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft New Tai Lue;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(36,36,36,1);
+	}
+	#elliott2000hotmailcom_dd {
+		left: 35px;
+		top: 53px;
+		position: absolute;
+		overflow: visible;
+		width: 228px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft New Tai Lue;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(36,36,36,1);
+	}
+	#ZappyMan6311_de {
+		left: 70px;
+		top: 94px;
+		position: absolute;
+		overflow: visible;
+		width: 159px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft New Tai Lue;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(36,36,36,1);
+	}
+	#Mask_Group_2_df {
+		position: absolute;
+		width: 27px;
+		height: 27px;
+		left: 0px;
+		top: 53px;
+		overflow: visible;
+	}
+	#Mask_Group_3_dg {
+		position: absolute;
+		width: 27px;
+		height: 27px;
+		left: 35px;
+		top: 94px;
+		overflow: visible;
+	}
+	#Title_dh {
+		position: absolute;
+		width: 866px;
+		height: 348px;
+		left: 54px;
+		top: 38px;
+		overflow: visible;
+	}
+	#Screenshot_20171109-213919_di {
+		position: absolute;
+		width: 703px;
+		height: 342px;
+		left: 163px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_15_dk {
+		fill: url(#Rectangle_15_dk);
+	}
+	.Rectangle_15_dk {
+		position: absolute;
+		overflow: visible;
+		width: 572px;
+		height: 339px;
+		left: 159px;
+		top: 3px;
+	}
+	#Rectangle_17_dm {
+		fill: url(#Rectangle_17_dm);
+	}
+	.Rectangle_17_dm {
+		position: absolute;
+		overflow: visible;
+		width: 75px;
+		height: 286px;
+		left: 670px;
+		top: 62px;
+	}
+	#Projects_dn {
+		left: 0px;
+		top: 141px;
+		position: absolute;
+		overflow: visible;
+		width: 350px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft Tai Le;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 72px;
+		color: rgba(51,48,48,1);
+		letter-spacing: 0.1px;
+		text-transform: uppercase;
+	}
+	#CatSpot_do {
+		position: absolute;
+		width: 691px;
+		height: 678px;
+		left: 54px;
+		top: 430px;
+		overflow: visible;
+	}
+	#catspot_dp {
+		position: absolute;
+		width: 691px;
+		height: 387px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_19_dq {
+		fill: rgba(255,255,255,0);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: round;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_19_dq {
+		position: absolute;
+		overflow: visible;
+		width: 691px;
+		height: 678px;
+		left: 0px;
+		top: 0px;
+	}
+	#CatSpot_dr {
+		left: 9px;
+		top: 393px;
+		position: absolute;
+		overflow: visible;
+		width: 107px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft Tai Le;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 28px;
+		color: rgba(51,48,48,1);
+		letter-spacing: 0.1px;
+	}
+	#School_Project_-_2019__CatSpot_ds {
+		left: 9px;
+		top: 441px;
+		position: absolute;
+		overflow: visible;
+		width: 682px;
+		height: 237px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(36,36,36,1);
+	}
+	#Plant_Monitor_dt {
+		position: absolute;
+		width: 691px;
+		height: 741px;
+		left: 54px;
+		top: 1152px;
+		overflow: visible;
+	}
+	#ID20210525_173411_du {
+		position: absolute;
+		width: 689.741px;
+		height: 388px;
+		left: 0.441px;
+		top: 0.036px;
+		overflow: visible;
+	}
+	#Rectangle_19_dv {
+		fill: rgba(255,255,255,0);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: round;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_19_dv {
+		position: absolute;
+		overflow: visible;
+		width: 691px;
+		height: 741px;
+		left: 0px;
+		top: 0px;
+	}
+	#Plant_Monitor_dw {
+		left: 9px;
+		top: 403px;
+		position: absolute;
+		overflow: visible;
+		width: 188px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft Tai Le;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 28px;
+		color: rgba(51,48,48,1);
+		letter-spacing: 0.1px;
+	}
+	#Personal_Project_-_2021__This__dx {
+		left: 9px;
+		top: 455px;
+		position: absolute;
+		overflow: visible;
+		width: 682px;
+		height: 280px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(36,36,36,1);
+	}
+	#website_dy {
+		position: absolute;
+		width: 692px;
+		height: 623px;
+		left: 54px;
+		top: 1949px;
+		overflow: visible;
+	}
+	#web_dz {
+		position: absolute;
+		width: 692px;
+		height: 389px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_19_d {
+		fill: rgba(255,255,255,0);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: round;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_19_d {
+		position: absolute;
+		overflow: visible;
+		width: 691px;
+		height: 623px;
+		left: 0px;
+		top: 0px;
+	}
+	#This_Website_d {
+		left: 11px;
+		top: 405px;
+		position: absolute;
+		overflow: visible;
+		width: 162px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft Tai Le;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(51,48,48,1);
+		letter-spacing: 0.1px;
+	}
+	#Personal_Project_-_2020__I_des_d {
+		left: 11px;
+		top: 444px;
+		position: absolute;
+		overflow: visible;
+		width: 672px;
+		height: 179px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(36,36,36,1);
+	}
+	#Navigation_d {
+		position: absolute;
+		width: 799px;
+		height: 150px;
+		left: 0px;
+		top: -50px;
+		overflow: visible;
+	}
+	#Rectangle_2_d {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_2_d {
+		position: absolute;
+		overflow: visible;
+		width: 799px;
+		height: 100px;
+		left: 0px;
+		top: 50px;
+	}
+	#Component_3__6 {
+		position: absolute;
+		width: 76px;
+		height: 113px;
+		left: 42px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Home_d:hover {
+		padding-left: 0px;
+		padding-top: 0px;
+		width: 77px;
+		font-size: 25px;
+		color: rgba(0,0,0,1);
+	}
+	#Home_d {
+		left: 12px;
+		top: 91px;
+		position: absolute;
+		overflow: visible;
+		width: 53px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 17px;
+		color: rgba(112,112,112,1);
+		text-transform: uppercase;
+		transition: all .3s ease-out;
+	}
+	#Home_eb {
+		padding-left: 0px;
+		padding-top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 77px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(0,0,0,1);
+		text-transform: uppercase;
+	}
+	#Component_2__6 {
+		position: absolute;
+		width: 82px;
+		height: 103px;
+		left: 328px;
+		top: 10px;
+		overflow: visible;
+	}
+	#Projects_ea {
+		left: 0px;
+		top: 81px;
+		position: absolute;
+		overflow: visible;
+		width: 83px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 17px;
+		color: rgba(112,112,112,1);
+		text-transform: uppercase;
+	}
+	#Projects_eb {
+		margin-left: 0px;
+		margin-top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 83px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 17px;
+		color: rgba(3,3,3,1);
+		text-transform: uppercase;
+	}
+	#Component_1__6 {
+		position: absolute;
+		width: 128px;
+		height: 100px;
+		left: 153px;
+		top: 13px;
+		overflow: visible;
+	}
+	#Photography_ed:hover {
+		margin-left: 0px;
+		margin-top: 0px;
+		width: 189px;
+		font-size: 25px;
+		color: rgba(0,0,0,1);
+	}
+	#Photography_ed {
+		left: 0px;
+		top: 78px;
+		position: absolute;
+		overflow: visible;
+		width: 129px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 17px;
+		color: rgba(112,112,112,1);
+		text-transform: uppercase;
+		transition: all .3s ease-out;
+	}
+	#Photography_ef {
+		margin-left: 0px;
+		margin-top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 129px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 17px;
+		color: rgba(0,0,0,1);
+		text-transform: uppercase;
+	}
+	#Mask_Group_5_eg {
+		position: absolute;
+		width: 27px;
+		height: 27px;
+		left: 616px;
+		top: 87px;
+		overflow: visible;
+	}
+	#GitHub-Mark-120px-plus_eh {
+		position: absolute;
+		width: 27px;
+		height: 27px;
+		left: 667px;
+		top: 87px;
+		overflow: visible;
+	}
+	#Mask_Group_4_ei {
+		position: absolute;
+		width: 27px;
+		height: 27px;
+		left: 718px;
+		top: 87px;
+		overflow: visible;
+	}
+}
