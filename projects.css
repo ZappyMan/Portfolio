@@ -263,44 +263,6 @@
 		color: rgba(0,0,0,1);
 		text-transform: uppercase;
 	}
-	#Component_2__4 {
-		position: absolute;
-		width: 120px;
-		height: 112px;
-		left: 266px;
-		top: 3px;
-		overflow: visible;
-	}
-	#Projects_ {
-		left: 12px;
-		top: 86px;
-		position: absolute;
-		overflow: visible;
-		width: 97px;
-		white-space: nowrap;
-		text-align: center;
-		font-family: Microsoft PhagsPa;
-		font-style: normal;
-		font-weight: bold;
-		font-size: 20px;
-		color: rgba(112,112,112,1);
-		text-transform: uppercase;
-	}
-	#Projects_ba {
-		margin-left: 0px;
-		margin-top: 0px;
-		position: absolute;
-		overflow: visible;
-		width: 121px;
-		white-space: nowrap;
-		text-align: center;
-		font-family: Microsoft PhagsPa;
-		font-style: normal;
-		font-weight: bold;
-		font-size: 25px;
-		color: rgba(3,3,3,1);
-		text-transform: uppercase;
-	}
 	#Component_1__4 {
 		position: absolute;
 		width: 188px;
@@ -332,7 +294,7 @@
 		text-transform: uppercase;
 		transition: all .3s ease-out;
 	}
-	#Photography_bb {
+	#Photography_ba {
 		margin-left: 0px;
 		margin-top: 0px;
 		position: absolute;
@@ -363,43 +325,51 @@
 		top: 88px;
 		overflow: visible;
 	}
-	#flickr-logo-svgrepo-com {
+	#Component_3__12 {
 		position: absolute;
-		width: 27px;
-		height: 12.865px;
-		left: 1627px;
-		top: 95.068px;
+		width: 96px;
+		height: 114px;
+		left: 278px;
+		top: 1px;
 		overflow: visible;
 	}
-	#Group_1 {
-		position: absolute;
-		width: 27px;
-		height: 12.865px;
+	#Projects_bc:hover {
+		padding-left: 0px;
+		padding-top: 0px;
+		width: 77px;
+		font-size: 25px;
+		color: rgba(0,0,0,1);
+	}
+	#Projects_bc {
 		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Ellipse_1 {
-		fill: rgba(0,0,0,1);
-	}
-	.Ellipse_1 {
+		top: 88px;
 		position: absolute;
 		overflow: visible;
-		width: 12.19px;
-		height: 12.711px;
-		left: 14.81px;
-		top: 0px;
+		width: 97px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(112,112,112,1);
+		text-transform: uppercase;
+		transition: all .3s ease-out;
 	}
-	#Ellipse_2 {
-		fill: rgba(0,0,0,1);
-	}
-	.Ellipse_2 {
+	#Home_be {
+		padding-left: 10px;
+		padding-top: 0px;
 		position: absolute;
 		overflow: visible;
-		width: 11.848px;
-		height: 12.865px;
-		left: 0px;
-		top: 0px;
+		width: 77px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(0,0,0,1);
+		text-transform: uppercase;
 	}
 	#CatSpot {
 		position: absolute;
@@ -409,7 +379,7 @@
 		top: 887px;
 		overflow: visible;
 	}
-	#CatSpot_bj {
+	#CatSpot_bg {
 		left: 808px;
 		top: 35px;
 		position: absolute;
@@ -471,7 +441,7 @@
 		top: 1420px;
 		overflow: visible;
 	}
-	#Rectangle_19_bo {
+	#Rectangle_19_bl {
 		fill: rgba(255,255,255,0);
 		stroke: rgba(112,112,112,1);
 		stroke-width: 1px;
@@ -480,7 +450,7 @@
 		stroke-miterlimit: 4;
 		shape-rendering: auto;
 	}
-	.Rectangle_19_bo {
+	.Rectangle_19_bl {
 		position: absolute;
 		overflow: visible;
 		width: 1548px;
@@ -488,7 +458,7 @@
 		left: 0px;
 		top: 0px;
 	}
-	#Plant_Monitor_bp {
+	#Plant_Monitor_bm {
 		left: 808px;
 		top: 35px;
 		position: absolute;
@@ -533,7 +503,7 @@
 		top: 1954px;
 		overflow: visible;
 	}
-	#Rectangle_19_bt {
+	#Rectangle_19_bq {
 		fill: rgba(255,255,255,0);
 		stroke: rgba(112,112,112,1);
 		stroke-width: 1px;
@@ -542,7 +512,7 @@
 		stroke-miterlimit: 4;
 		shape-rendering: auto;
 	}
-	.Rectangle_19_bt {
+	.Rectangle_19_bq {
 		position: absolute;
 		overflow: visible;
 		width: 1548px;
@@ -623,7 +593,7 @@
 		--web-show-by-media-query: true;
 		--web-enable-deep-linking: true;
 	}
-	#Contact_bz {
+	#Contact_bw {
 		position: absolute;
 		width: 262px;
 		height: 121px;
@@ -631,7 +601,7 @@
 		top: 3525px;
 		overflow: visible;
 	}
-	#elliott2000hotmailcom_b {
+	#elliott2000hotmailcom_bx {
 		left: 35px;
 		top: 53px;
 		position: absolute;
@@ -645,7 +615,7 @@
 		font-size: 20px;
 		color: rgba(36,36,36,1);
 	}
-	#ZappyMan6311_b {
+	#ZappyMan6311_by {
 		left: 70px;
 		top: 94px;
 		position: absolute;
@@ -659,7 +629,7 @@
 		font-size: 20px;
 		color: rgba(36,36,36,1);
 	}
-	#Mask_Group_2_b {
+	#Mask_Group_2_bz {
 		position: absolute;
 		width: 27px;
 		height: 27px;
@@ -734,10 +704,10 @@
 		left: 264px;
 		top: 5px;
 	}
-	#Rectangle_17_cb {
-		fill: url(#Rectangle_17_cb);
+	#Rectangle_17_ca {
+		fill: url(#Rectangle_17_ca);
 	}
-	.Rectangle_17_cb {
+	.Rectangle_17_ca {
 		position: absolute;
 		overflow: visible;
 		width: 126px;
@@ -745,7 +715,7 @@
 		left: 1122px;
 		top: 104px;
 	}
-	#Projects_cc {
+	#Projects_b {
 		left: 0px;
 		top: 236px;
 		position: absolute;
@@ -761,7 +731,7 @@
 		letter-spacing: 0.1px;
 		text-transform: uppercase;
 	}
-	#Navigation_cd {
+	#Navigation_ca {
 		position: absolute;
 		width: 1347px;
 		height: 151px;
@@ -769,10 +739,10 @@
 		top: -51px;
 		overflow: visible;
 	}
-	#Rectangle_2_ce {
+	#Rectangle_2_cb {
 		fill: rgba(255,255,255,1);
 	}
-	.Rectangle_2_ce {
+	.Rectangle_2_cb {
 		position: absolute;
 		overflow: visible;
 		width: 1347px;
@@ -788,14 +758,14 @@
 		top: 0px;
 		overflow: visible;
 	}
-	#Home_cg:hover {
+	#Home_cd:hover {
 		padding-left: 0px;
 		padding-top: 0px;
 		width: 77px;
 		font-size: 25px;
 		color: rgba(0,0,0,1);
 	}
-	#Home_cg {
+	#Home_cd {
 		left: 12px;
 		top: 91px;
 		position: absolute;
@@ -811,7 +781,7 @@
 		text-transform: uppercase;
 		transition: all .3s ease-out;
 	}
-	#Home_ci {
+	#Home_cf {
 		padding-left: 0px;
 		padding-top: 0px;
 		position: absolute;
@@ -826,60 +796,22 @@
 		color: rgba(0,0,0,1);
 		text-transform: uppercase;
 	}
-	#Component_2__5 {
-		position: absolute;
-		width: 82px;
-		height: 103px;
-		left: 203px;
-		top: 10px;
-		overflow: visible;
-	}
-	#Projects_ck {
-		left: 0px;
-		top: 81px;
-		position: absolute;
-		overflow: visible;
-		width: 83px;
-		white-space: nowrap;
-		text-align: center;
-		font-family: Microsoft PhagsPa;
-		font-style: normal;
-		font-weight: bold;
-		font-size: 17px;
-		color: rgba(112,112,112,1);
-		text-transform: uppercase;
-	}
-	#Projects_cl {
-		margin-left: 0px;
-		margin-top: 0px;
-		position: absolute;
-		overflow: visible;
-		width: 83px;
-		white-space: nowrap;
-		text-align: center;
-		font-family: Microsoft PhagsPa;
-		font-style: normal;
-		font-weight: bold;
-		font-size: 17px;
-		color: rgba(3,3,3,1);
-		text-transform: uppercase;
-	}
 	#Component_1__5 {
 		position: absolute;
 		width: 128px;
 		height: 100px;
-		left: 337px;
+		left: 343px;
 		top: 13px;
 		overflow: visible;
 	}
-	#Photography_cn:hover {
+	#Photography_ch:hover {
 		margin-left: 0px;
 		margin-top: 0px;
 		width: 189px;
 		font-size: 25px;
 		color: rgba(0,0,0,1);
 	}
-	#Photography_cn {
+	#Photography_ch {
 		left: 0px;
 		top: 78px;
 		position: absolute;
@@ -895,7 +827,7 @@
 		text-transform: uppercase;
 		transition: all .3s ease-out;
 	}
-	#Photography_cp {
+	#Photography_cj {
 		margin-left: 0px;
 		margin-top: 0px;
 		position: absolute;
@@ -910,15 +842,7 @@
 		color: rgba(0,0,0,1);
 		text-transform: uppercase;
 	}
-	#Mask_Group_5 {
-		position: absolute;
-		width: 27px;
-		height: 27px;
-		left: 1119px;
-		top: 88px;
-		overflow: visible;
-	}
-	#GitHub-Mark-120px-plus_cr {
+	#GitHub-Mark-120px-plus_ck {
 		position: absolute;
 		width: 27px;
 		height: 27px;
@@ -934,15 +858,61 @@
 		top: 88px;
 		overflow: visible;
 	}
-	#CatSpot_ct {
+	#Component_3__13 {
+		position: absolute;
+		width: 120px;
+		height: 113px;
+		left: 193px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Projects_cn:hover {
+		padding-left: 0px;
+		padding-top: 0px;
+		width: 77px;
+		font-size: 25px;
+		color: rgba(0,0,0,1);
+	}
+	#Projects_cn {
+		left: 19px;
+		top: 91px;
+		position: absolute;
+		overflow: visible;
+		width: 83px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 17px;
+		color: rgba(112,112,112,1);
+		text-transform: uppercase;
+		transition: all .3s ease-out;
+	}
+	#Projects_cp {
+		padding-left: 0px;
+		padding-top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 121px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(0,0,0,1);
+		text-transform: uppercase;
+	}
+	#CatSpot_cq {
 		position: absolute;
 		width: 972px;
-		height: 848px;
+		height: 861px;
 		left: 188px;
 		top: 661px;
 		overflow: visible;
 	}
-	#catspot_cu {
+	#catspot_cr {
 		position: absolute;
 		width: 972px;
 		height: 544px;
@@ -950,7 +920,7 @@
 		top: 0px;
 		overflow: visible;
 	}
-	#CatSpot_cv {
+	#CatSpot_cs {
 		left: 13px;
 		top: 556px;
 		position: absolute;
@@ -965,13 +935,13 @@
 		color: rgba(51,48,48,1);
 		letter-spacing: 0.1px;
 	}
-	#School_Project_-_2019__CatSpot_cw {
+	#School_Project_-_2019__CatSpot_ct {
 		left: 13px;
 		top: 620px;
 		position: absolute;
 		overflow: visible;
 		width: 960px;
-		height: 215px;
+		height: 241px;
 		text-align: left;
 		font-family: Arial;
 		font-style: normal;
@@ -979,7 +949,7 @@
 		font-size: 20px;
 		color: rgba(36,36,36,1);
 	}
-	#Rectangle_19_cx {
+	#Rectangle_19_cu {
 		fill: rgba(255,255,255,0);
 		stroke: rgba(112,112,112,1);
 		stroke-width: 1px;
@@ -988,23 +958,23 @@
 		stroke-miterlimit: 4;
 		shape-rendering: auto;
 	}
-	.Rectangle_19_cx {
+	.Rectangle_19_cu {
 		position: absolute;
 		overflow: visible;
 		width: 972px;
-		height: 848px;
+		height: 861px;
 		left: 0px;
 		top: 0px;
 	}
-	#Plant_Monitor_cy {
+	#Plant_Monitor_cv {
 		position: absolute;
 		width: 972px;
-		height: 895px;
+		height: 929px;
 		left: 188px;
 		top: 1600px;
 		overflow: visible;
 	}
-	#ID20210525_173411_cz {
+	#ID20210525_173411_cw {
 		position: absolute;
 		width: 972px;
 		height: 546.5px;
@@ -1012,7 +982,7 @@
 		top: 0px;
 		overflow: visible;
 	}
-	#Plant_Monitor_c {
+	#Plant_Monitor_cx {
 		left: 13px;
 		top: 567px;
 		position: absolute;
@@ -1027,19 +997,44 @@
 		color: rgba(51,48,48,1);
 		letter-spacing: 0.1px;
 	}
-	#Personal_Project_-_2021__This__c {
+	#Personal_Project_-_2021__This__cy {
 		left: 13px;
 		top: 640px;
 		position: absolute;
 		overflow: visible;
 		width: 960px;
-		height: 255px;
+		height: 289px;
 		text-align: left;
 		font-family: Arial;
 		font-style: normal;
 		font-weight: bold;
 		font-size: 20px;
 		color: rgba(36,36,36,1);
+	}
+	#Rectangle_19_cz {
+		fill: rgba(255,255,255,0);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: round;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_19_cz {
+		position: absolute;
+		overflow: visible;
+		width: 972px;
+		height: 929px;
+		left: 0px;
+		top: 0px;
+	}
+	#website_c {
+		position: absolute;
+		width: 972px;
+		height: 819px;
+		left: 188px;
+		top: 2586px;
+		overflow: visible;
 	}
 	#Rectangle_19_c {
 		fill: rgba(255,255,255,0);
@@ -1054,32 +1049,7 @@
 		position: absolute;
 		overflow: visible;
 		width: 972px;
-		height: 895px;
-		left: 0px;
-		top: 0px;
-	}
-	#website_c {
-		position: absolute;
-		width: 972px;
-		height: 848px;
-		left: 188px;
-		top: 2586px;
-		overflow: visible;
-	}
-	#Rectangle_19_da {
-		fill: rgba(255,255,255,0);
-		stroke: rgba(112,112,112,1);
-		stroke-width: 1px;
-		stroke-linejoin: round;
-		stroke-linecap: round;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Rectangle_19_da {
-		position: absolute;
-		overflow: visible;
-		width: 972px;
-		height: 848px;
+		height: 819px;
 		left: 0px;
 		top: 0px;
 	}
@@ -1112,7 +1082,7 @@
 		position: absolute;
 		overflow: visible;
 		width: 945px;
-		height: 209px;
+		height: 194px;
 		text-align: left;
 		font-family: Arial;
 		font-style: normal;
@@ -1156,7 +1126,7 @@
 		--web-show-by-media-query: true;
 		--web-enable-deep-linking: true;
 	}
-	#Contact_da {
+	#Contact_c {
 		position: absolute;
 		width: 262px;
 		height: 121px;
@@ -1164,7 +1134,7 @@
 		top: 2628px;
 		overflow: visible;
 	}
-	#Line_4_db {
+	#Line_4_c {
 		fill: transparent;
 		stroke: rgba(112,112,112,1);
 		stroke-width: 1px;
@@ -1173,7 +1143,7 @@
 		stroke-miterlimit: 4;
 		shape-rendering: auto;
 	}
-	.Line_4_db {
+	.Line_4_c {
 		overflow: visible;
 		position: absolute;
 		width: 176.5px;
@@ -1182,7 +1152,7 @@
 		top: 34.5px;
 		transform: matrix(1,0,0,1,0,0);
 	}
-	#Contact_Info_dc {
+	#Contact_Info_c {
 		left: 42px;
 		top: 0px;
 		position: absolute;
@@ -1196,7 +1166,7 @@
 		font-size: 30px;
 		color: rgba(36,36,36,1);
 	}
-	#elliott2000hotmailcom_dd {
+	#elliott2000hotmailcom_da {
 		left: 35px;
 		top: 53px;
 		position: absolute;
@@ -1210,7 +1180,7 @@
 		font-size: 20px;
 		color: rgba(36,36,36,1);
 	}
-	#ZappyMan6311_de {
+	#ZappyMan6311_db {
 		left: 70px;
 		top: 94px;
 		position: absolute;
@@ -1224,7 +1194,7 @@
 		font-size: 20px;
 		color: rgba(36,36,36,1);
 	}
-	#Mask_Group_2_df {
+	#Mask_Group_2_dc {
 		position: absolute;
 		width: 27px;
 		height: 27px;
@@ -1232,7 +1202,7 @@
 		top: 53px;
 		overflow: visible;
 	}
-	#Mask_Group_3_dg {
+	#Mask_Group_3_dd {
 		position: absolute;
 		width: 27px;
 		height: 27px;
@@ -1240,7 +1210,7 @@
 		top: 94px;
 		overflow: visible;
 	}
-	#Title_dh {
+	#Title_de {
 		position: absolute;
 		width: 866px;
 		height: 348px;
@@ -1248,7 +1218,7 @@
 		top: 38px;
 		overflow: visible;
 	}
-	#Screenshot_20171109-213919_di {
+	#Screenshot_20171109-213919_df {
 		position: absolute;
 		width: 703px;
 		height: 342px;
@@ -1256,10 +1226,10 @@
 		top: 0px;
 		overflow: visible;
 	}
-	#Rectangle_15_dk {
-		fill: url(#Rectangle_15_dk);
+	#Rectangle_15_dh {
+		fill: url(#Rectangle_15_dh);
 	}
-	.Rectangle_15_dk {
+	.Rectangle_15_dh {
 		position: absolute;
 		overflow: visible;
 		width: 572px;
@@ -1267,10 +1237,10 @@
 		left: 159px;
 		top: 3px;
 	}
-	#Rectangle_17_dm {
-		fill: url(#Rectangle_17_dm);
+	#Rectangle_17_dj {
+		fill: url(#Rectangle_17_dj);
 	}
-	.Rectangle_17_dm {
+	.Rectangle_17_dj {
 		position: absolute;
 		overflow: visible;
 		width: 75px;
@@ -1278,7 +1248,7 @@
 		left: 670px;
 		top: 62px;
 	}
-	#Projects_dn {
+	#Projects_dk {
 		left: 0px;
 		top: 141px;
 		position: absolute;
@@ -1294,15 +1264,15 @@
 		letter-spacing: 0.1px;
 		text-transform: uppercase;
 	}
-	#CatSpot_do {
+	#CatSpot_dl {
 		position: absolute;
 		width: 691px;
-		height: 678px;
+		height: 699px;
 		left: 54px;
-		top: 430px;
+		top: 418px;
 		overflow: visible;
 	}
-	#catspot_dp {
+	#catspot_dm {
 		position: absolute;
 		width: 691px;
 		height: 387px;
@@ -1310,7 +1280,7 @@
 		top: 0px;
 		overflow: visible;
 	}
-	#Rectangle_19_dq {
+	#Rectangle_19_dn {
 		fill: rgba(255,255,255,0);
 		stroke: rgba(112,112,112,1);
 		stroke-width: 1px;
@@ -1319,15 +1289,15 @@
 		stroke-miterlimit: 4;
 		shape-rendering: auto;
 	}
-	.Rectangle_19_dq {
+	.Rectangle_19_dn {
 		position: absolute;
 		overflow: visible;
 		width: 691px;
-		height: 678px;
+		height: 699px;
 		left: 0px;
 		top: 0px;
 	}
-	#CatSpot_dr {
+	#CatSpot_do {
 		left: 9px;
 		top: 393px;
 		position: absolute;
@@ -1342,13 +1312,13 @@
 		color: rgba(51,48,48,1);
 		letter-spacing: 0.1px;
 	}
-	#School_Project_-_2019__CatSpot_ds {
+	#School_Project_-_2019__CatSpot_dp {
 		left: 9px;
 		top: 441px;
 		position: absolute;
 		overflow: visible;
 		width: 682px;
-		height: 237px;
+		height: 258px;
 		text-align: left;
 		font-family: Arial;
 		font-style: normal;
@@ -1356,15 +1326,15 @@
 		font-size: 20px;
 		color: rgba(36,36,36,1);
 	}
-	#Plant_Monitor_dt {
+	#Plant_Monitor_dq {
 		position: absolute;
 		width: 691px;
-		height: 741px;
+		height: 753px;
 		left: 54px;
-		top: 1152px;
+		top: 1149px;
 		overflow: visible;
 	}
-	#ID20210525_173411_du {
+	#ID20210525_173411_dr {
 		position: absolute;
 		width: 689.741px;
 		height: 388px;
@@ -1372,7 +1342,7 @@
 		top: 0.036px;
 		overflow: visible;
 	}
-	#Rectangle_19_dv {
+	#Rectangle_19_ds {
 		fill: rgba(255,255,255,0);
 		stroke: rgba(112,112,112,1);
 		stroke-width: 1px;
@@ -1381,15 +1351,15 @@
 		stroke-miterlimit: 4;
 		shape-rendering: auto;
 	}
-	.Rectangle_19_dv {
+	.Rectangle_19_ds {
 		position: absolute;
 		overflow: visible;
 		width: 691px;
-		height: 741px;
+		height: 753px;
 		left: 0px;
 		top: 0px;
 	}
-	#Plant_Monitor_dw {
+	#Plant_Monitor_dt {
 		left: 9px;
 		top: 403px;
 		position: absolute;
@@ -1404,13 +1374,13 @@
 		color: rgba(51,48,48,1);
 		letter-spacing: 0.1px;
 	}
-	#Personal_Project_-_2021__This__dx {
+	#Personal_Project_-_2021__This__du {
 		left: 9px;
 		top: 455px;
 		position: absolute;
 		overflow: visible;
 		width: 682px;
-		height: 280px;
+		height: 298px;
 		text-align: left;
 		font-family: Arial;
 		font-style: normal;
@@ -1418,15 +1388,15 @@
 		font-size: 20px;
 		color: rgba(36,36,36,1);
 	}
-	#website_dy {
+	#website_dv {
 		position: absolute;
 		width: 692px;
-		height: 623px;
+		height: 644px;
 		left: 54px;
-		top: 1949px;
+		top: 1934px;
 		overflow: visible;
 	}
-	#web_dz {
+	#web_dw {
 		position: absolute;
 		width: 692px;
 		height: 389px;
@@ -1434,7 +1404,7 @@
 		top: 0px;
 		overflow: visible;
 	}
-	#Rectangle_19_d {
+	#Rectangle_19_dx {
 		fill: rgba(255,255,255,0);
 		stroke: rgba(112,112,112,1);
 		stroke-width: 1px;
@@ -1443,15 +1413,15 @@
 		stroke-miterlimit: 4;
 		shape-rendering: auto;
 	}
-	.Rectangle_19_d {
+	.Rectangle_19_dx {
 		position: absolute;
 		overflow: visible;
 		width: 691px;
-		height: 623px;
+		height: 644px;
 		left: 0px;
 		top: 0px;
 	}
-	#This_Website_d {
+	#This_Website_dy {
 		left: 11px;
 		top: 405px;
 		position: absolute;
@@ -1466,13 +1436,13 @@
 		color: rgba(51,48,48,1);
 		letter-spacing: 0.1px;
 	}
-	#Personal_Project_-_2020__I_des_d {
+	#Personal_Project_-_2020__I_des_dz {
 		left: 11px;
 		top: 444px;
 		position: absolute;
 		overflow: visible;
 		width: 672px;
-		height: 179px;
+		height: 200px;
 		text-align: left;
 		font-family: Arial;
 		font-style: normal;
@@ -1483,9 +1453,9 @@
 	#Navigation_d {
 		position: absolute;
 		width: 799px;
-		height: 150px;
+		height: 149px;
 		left: 0px;
-		top: -50px;
+		top: -49px;
 		overflow: visible;
 	}
 	#Rectangle_2_d {
@@ -1497,13 +1467,13 @@
 		width: 799px;
 		height: 100px;
 		left: 0px;
-		top: 50px;
+		top: 49px;
 	}
-	#Component_3__6 {
+	#Component_3__8 {
 		position: absolute;
 		width: 76px;
 		height: 113px;
-		left: 42px;
+		left: 41px;
 		top: 0px;
 		overflow: visible;
 	}
@@ -1545,60 +1515,22 @@
 		color: rgba(0,0,0,1);
 		text-transform: uppercase;
 	}
-	#Component_2__6 {
-		position: absolute;
-		width: 82px;
-		height: 103px;
-		left: 328px;
-		top: 10px;
-		overflow: visible;
-	}
-	#Projects_ea {
-		left: 0px;
-		top: 81px;
-		position: absolute;
-		overflow: visible;
-		width: 83px;
-		white-space: nowrap;
-		text-align: center;
-		font-family: Microsoft PhagsPa;
-		font-style: normal;
-		font-weight: bold;
-		font-size: 17px;
-		color: rgba(112,112,112,1);
-		text-transform: uppercase;
-	}
-	#Projects_eb {
-		margin-left: 0px;
-		margin-top: 0px;
-		position: absolute;
-		overflow: visible;
-		width: 83px;
-		white-space: nowrap;
-		text-align: center;
-		font-family: Microsoft PhagsPa;
-		font-style: normal;
-		font-weight: bold;
-		font-size: 17px;
-		color: rgba(3,3,3,1);
-		text-transform: uppercase;
-	}
-	#Component_1__6 {
+	#Component_1__8 {
 		position: absolute;
 		width: 128px;
 		height: 100px;
-		left: 153px;
-		top: 13px;
+		left: 307px;
+		top: 11px;
 		overflow: visible;
 	}
-	#Photography_ed:hover {
+	#Photography_d:hover {
 		margin-left: 0px;
 		margin-top: 0px;
 		width: 189px;
 		font-size: 25px;
 		color: rgba(0,0,0,1);
 	}
-	#Photography_ed {
+	#Photography_d {
 		left: 0px;
 		top: 78px;
 		position: absolute;
@@ -1614,7 +1546,7 @@
 		text-transform: uppercase;
 		transition: all .3s ease-out;
 	}
-	#Photography_ef {
+	#Photography_eb {
 		margin-left: 0px;
 		margin-top: 0px;
 		position: absolute;
@@ -1629,28 +1561,66 @@
 		color: rgba(0,0,0,1);
 		text-transform: uppercase;
 	}
-	#Mask_Group_5_eg {
-		position: absolute;
-		width: 27px;
-		height: 27px;
-		left: 616px;
-		top: 87px;
-		overflow: visible;
-	}
-	#GitHub-Mark-120px-plus_eh {
+	#GitHub-Mark-120px-plus_ea {
 		position: absolute;
 		width: 27px;
 		height: 27px;
 		left: 667px;
-		top: 87px;
+		top: 86px;
 		overflow: visible;
 	}
-	#Mask_Group_4_ei {
+	#Mask_Group_4_eb {
 		position: absolute;
 		width: 27px;
 		height: 27px;
 		left: 718px;
-		top: 87px;
+		top: 86px;
 		overflow: visible;
+	}
+	#Component_3__14 {
+		position: absolute;
+		width: 120px;
+		height: 113px;
+		left: 149px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Projects_ed:hover {
+		padding-left: 0px;
+		padding-top: 0px;
+		width: 77px;
+		font-size: 25px;
+		color: rgba(0,0,0,1);
+	}
+	#Projects_ed {
+		left: 19px;
+		top: 91px;
+		position: absolute;
+		overflow: visible;
+		width: 83px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 17px;
+		color: rgba(112,112,112,1);
+		text-transform: uppercase;
+		transition: all .3s ease-out;
+	}
+	#Projects_ef {
+		padding-left: 0px;
+		padding-top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 121px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(0,0,0,1);
+		text-transform: uppercase;
 	}
 }
